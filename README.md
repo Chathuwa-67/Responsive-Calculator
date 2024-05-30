@@ -1,2 +1,2 @@
-# Responsive-Calcilator
-Responsive siple calculator with Light and Dark theme
+# Responsive-calculator
+Responsive simple calculator with Light and Dark theme
